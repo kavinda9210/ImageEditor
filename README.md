@@ -78,4 +78,4 @@ We use the **Canvas API** to draw and modify the image directly within the brows
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-image-editor.git
+   git clone https://github.com/kavinda9210/ImageEditor
